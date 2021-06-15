@@ -1,1 +1,3 @@
-# my-git-project
+# My Git Project
+
+> My code for the git project
